@@ -1,1 +1,7 @@
-package repo1
+package main
+
+import "log"
+
+func main() {
+	log.Println("Hello GIT")
+}
